@@ -3,13 +3,13 @@
 View the read-only file by simply clicking it in the list above.
 
 
-Launch it in a local Jupyter server by clicking [IT_Lab_Test.ipynb](http://192.168.209.78/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnikcleju%2FIT_Course&urlpath=tree%2FIT_Course%2F&branch=master&depth=1)
+Launch it in a local Jupyter server by clicking [IT_Lab_Test.ipynb](http://192.168.209.78/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnikcleju%2FIT_Lab_Test&urlpath=tree%2FIT_Lab_Test%2FIT_Lab_Test.ipynb&branch=master)
 
 
 Launch on public Binder server by clicking `launch Binder` below:
 
 
-[IT_Lab_Test.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nikcleju/IT_Course/HEAD?urlpath=/lab/tree/Labs/Jupyter/L08_ParityBit_Encoding.ipynb) -->
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nikcleju/IT_Lab_Test/HEAD?labpath=IT_Lab_Test.ipynb)
  
 
 
